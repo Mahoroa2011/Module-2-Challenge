@@ -3,7 +3,7 @@
   flex-direction: row;
   width: auto;
   align-items: center;
-  background-color: dodgerblue;
+  background-color: skyblue;
 }
 
 .nav-spacer{
@@ -13,5 +13,6 @@
 .nav-links {
 padding-left: 15px;
 padding-right: 5px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
