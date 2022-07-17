@@ -3,4 +3,4 @@ A small little website listing fake accomplishments and useless facts about me t
 
 
 
-hopefully this is good enough but lets be honest anxiety will always be there nagging at me that it wont be.
+hopefully this is good enough but lets be honest anxiety will always be there nagging me that it wont be.

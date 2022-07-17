@@ -1,8 +1,13 @@
 .navbar {
   display: flex;
   flex-direction: row;
-  width: 100%;
+  width: auto;
   align-items: center;
+  background-color: dodgerblue;
+}
+
+.nav-spacer{
+  flex-grow: 1
 }
 
 .nav-links {
@@ -10,6 +15,3 @@ padding-left: 15px;
 padding-right: 5px;
 }
 
-.nav-space{
-  flex-grow: 1
-}
