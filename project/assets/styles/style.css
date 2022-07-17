@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+}
+
+.nav-links {
+padding-left: 15px;
+padding-right: 5px;
+}
+
+.nav-space{
+  flex-grow: 1
+}
