@@ -1,9 +1,17 @@
+.body{
+background-color: antiquewhite;
+}
+
 .navbar {
   display: flex;
   flex-direction: row;
   width: auto;
   align-items: center;
   background-color: skyblue;
+  padding-top: 20px;
+  border-bottom:20px ;
+  border-style: solid;
+  border-color: lightblue;
 }
 
 .nav-spacer {
@@ -26,10 +34,21 @@
 .paragraph {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+    width: auto;
 }
 
 .flex-work-grid {
   background-color: plum;
+  display: flex;
+
+}
+
+.main-app{
+
+}
+
+.sub-app{
+
 }
 
 .contacts-div{
