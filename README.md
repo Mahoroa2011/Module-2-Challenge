@@ -1,5 +1,5 @@
 # Module-2-Challenge
-A small little website listing fake accomplishments and useless facts about me that has one singular purpose which is to show off what I've learned so far with css and html.
+A small little website listing accomplishments and useless facts about me that has one singular purpose at the moment which is to show off what I've learned so far with css and html.
 
 
 
