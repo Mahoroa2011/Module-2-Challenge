@@ -38,16 +38,25 @@ background-color: antiquewhite;
 }
 
 .flex-work-grid {
-  background-color: plum;
   display: flex;
 
 }
 
 .main-app{
-
+  border-style: solid;
+  border-color: lightcyan;
+  padding: 15px;
 }
 
 .sub-app{
+  display: flex;
+  border-style: solid;
+  border-color: lightslategray;
+  border-width: 10px;
+  padding: 10px;
+  margin: 20px;
+  background-color: plum;
+  flex-wrap:wrap
 
 }
 
